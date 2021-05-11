@@ -1,4 +1,4 @@
-h1
+h1, h2
 {
     color: blueviolet;
 }
@@ -6,7 +6,9 @@ h1
 ul
 {
 border-style: solid;
-border-color: aquamarine;
+
+border-color: rgb(255, 174, 127);
+text-align: left;
 }
 
 div
@@ -24,4 +26,13 @@ div
          url('DroidSans-webfont.svg#droid_sansregular') format('svg');
     font-weight: normal;
     font-style: normal;
+}
+
+body
+{
+    background-image: url("velo.png");
+    opacity: 1;
+    background-position: right;
+    background-repeat: no-repeat;
+
 }
