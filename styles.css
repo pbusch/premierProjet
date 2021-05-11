@@ -6,15 +6,12 @@ h1, h2
 ul
 {
 border-style: solid;
-
 border-color: rgb(255, 174, 127);
+width: 30%;
 text-align: left;
+
 }
 
-div
-{
-    text-align: center;
-}
 
 @font-face 
 {
